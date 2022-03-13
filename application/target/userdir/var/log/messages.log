@@ -1,191 +1,34 @@
 -------------------------------------------------------------------------------
->Log Session: Tuesday, March 1, 2022 at 1:00:13 PM Central European Standard Time
+>Log Session: Sunday, March 13, 2022 12:02:44 PM CET
 >System Info: 
   Product Version         = Apache NetBeans Platform Dev (Build 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54)
   Operating System        = Mac OS X version 12.2 running on x86_64
-  Java; VM; Vendor        = 17.0.1; OpenJDK 64-Bit Server VM 17.0.1+1; Homebrew
-  Runtime                 = OpenJDK Runtime Environment 17.0.1+1
-  Java Home               = /usr/local/Cellar/openjdk/17.0.1_1/libexec/openjdk.jdk/Contents/Home
+  Java; VM; Vendor        = 1.8.0_321; Java HotSpot(TM) 64-Bit Server VM 25.321-b07; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.8.0_321-b07
+  Java Home               = /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home
   System Locale; Encoding = en_DK (netbeanslab); UTF-8
   Home Directory          = /Users/casperandresen
-  Current Directory       = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application
-  User Directory          = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/userdir
-  Cache Directory         = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/userdir/var/cache
-  Installation            = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform
-                            /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/netbeanslab
-                            /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform
-  Boot & Ext. Classpath   = 
-  Application Classpath   = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform/lib/boot.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform/lib/org-openide-modules.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform/lib/org-openide-util-lookup.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform/lib/org-openide-util-ui.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform/lib/org-openide-util.jar
-  Startup Classpath       = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform/core/org-netbeans-libs-asm.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform/core/asm-all-5.0.1.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform/core/org-openide-filesystems.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform/core/core.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/application/target/netbeanslab/platform/core/core-base.jar
+  Current Directory       = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application
+  User Directory          = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/userdir
+  Cache Directory         = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/userdir/var/cache
+  Installation            = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform
+                            /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab
+                            /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform
+  Boot & Ext. Classpath   = /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/resources.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/sunrsasign.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jsse.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jce.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/charsets.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jfr.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/classes:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext/sunec.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext/nashorn.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext/cldrdata.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext/jfxrt.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext/dnsns.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext/localedata.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext/sunjce_provider.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext/sunpkcs11.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext/jaccess.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext/zipfs.jar
+  Application Classpath   = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform/lib/boot.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform/lib/org-openide-modules.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform/lib/org-openide-util-lookup.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform/lib/org-openide-util-ui.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform/lib/org-openide-util.jar
+  Startup Classpath       = /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform/core/org-netbeans-libs-asm.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform/core/asm-all-5.0.1.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform/core/org-openide-filesystems.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform/core/core.jar:/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/platform/core/core-base.jar
 -------------------------------------------------------------------------------
-SEVERE [org.openide.util.Exceptions]
-java.lang.reflect.InaccessibleObjectException: Unable to make protected java.util.Enumeration java.lang.ClassLoader.findResources(java.lang.String) throws java.io.IOException accessible: module java.base does not "opens java.lang" to unnamed module @2f3d6cd8
-	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
-	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
-	at java.base/java.lang.reflect.Method.checkCanSetAccessible(Method.java:199)
-	at java.base/java.lang.reflect.Method.setAccessible(Method.java:193)
-[catch] at org.netbeans.Module.findResources(Module.java:567)
-	at org.netbeans.core.startup.NbInstaller.loadLayers(NbInstaller.java:605)
-	at org.netbeans.core.startup.NbInstaller.loadImpl(NbInstaller.java:332)
-	at org.netbeans.core.startup.NbInstaller.access$000(NbInstaller.java:77)
-	at org.netbeans.core.startup.NbInstaller$1.run(NbInstaller.java:322)
-	at org.openide.filesystems.FileUtil$2.run(FileUtil.java:413)
-	at org.openide.filesystems.EventControl.runAtomicAction(EventControl.java:102)
-	at org.openide.filesystems.FileSystem.runAtomicAction(FileSystem.java:494)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:397)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:417)
-	at org.netbeans.core.startup.NbInstaller.load(NbInstaller.java:319)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1449)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1254)
-	at org.netbeans.core.startup.ModuleList.installNew(ModuleList.java:315)
-	at org.netbeans.core.startup.ModuleList.trigger(ModuleList.java:251)
-	at org.netbeans.core.startup.ModuleSystem.restore(ModuleSystem.java:298)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:156)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:125)
-	at org.netbeans.core.startup.Main.start(Main.java:282)
-	at org.netbeans.core.startup.TopThreadGroup.run(TopThreadGroup.java:98)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-SEVERE [org.openide.util.Exceptions]
-java.lang.IllegalAccessException: class org.netbeans.Module cannot access a member of class java.lang.ClassLoader (in module java.base) with modifiers "protected"
-	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392)
-	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:560)
-[catch] at org.netbeans.Module.findResources(Module.java:570)
-	at org.netbeans.core.startup.NbInstaller.loadLayers(NbInstaller.java:605)
-	at org.netbeans.core.startup.NbInstaller.loadImpl(NbInstaller.java:332)
-	at org.netbeans.core.startup.NbInstaller.access$000(NbInstaller.java:77)
-	at org.netbeans.core.startup.NbInstaller$1.run(NbInstaller.java:322)
-	at org.openide.filesystems.FileUtil$2.run(FileUtil.java:413)
-	at org.openide.filesystems.EventControl.runAtomicAction(EventControl.java:102)
-	at org.openide.filesystems.FileSystem.runAtomicAction(FileSystem.java:494)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:397)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:417)
-	at org.netbeans.core.startup.NbInstaller.load(NbInstaller.java:319)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1449)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1254)
-	at org.netbeans.core.startup.ModuleList.installNew(ModuleList.java:315)
-	at org.netbeans.core.startup.ModuleList.trigger(ModuleList.java:251)
-	at org.netbeans.core.startup.ModuleSystem.restore(ModuleSystem.java:298)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:156)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:125)
-	at org.netbeans.core.startup.Main.start(Main.java:282)
-	at org.netbeans.core.startup.TopThreadGroup.run(TopThreadGroup.java:98)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-SEVERE [null]: Last record repeated 7 more times.
-SEVERE [org.openide.util.Exceptions]
-java.lang.IllegalAccessException: class org.netbeans.Module cannot access a member of class java.lang.ClassLoader (in module java.base) with modifiers "protected"
-	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392)
-	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:560)
-[catch] at org.netbeans.Module.findResources(Module.java:570)
-	at org.netbeans.core.startup.NbInstaller.loadLayers(NbInstaller.java:587)
-	at org.netbeans.core.startup.NbInstaller.loadImpl(NbInstaller.java:332)
-	at org.netbeans.core.startup.NbInstaller.access$000(NbInstaller.java:77)
-	at org.netbeans.core.startup.NbInstaller$1.run(NbInstaller.java:322)
-	at org.openide.filesystems.FileUtil$2.run(FileUtil.java:413)
-	at org.openide.filesystems.EventControl.runAtomicAction(EventControl.java:102)
-	at org.openide.filesystems.FileSystem.runAtomicAction(FileSystem.java:494)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:397)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:417)
-	at org.netbeans.core.startup.NbInstaller.load(NbInstaller.java:319)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1449)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1254)
-	at org.netbeans.core.startup.ModuleList.installNew(ModuleList.java:315)
-	at org.netbeans.core.startup.ModuleList.trigger(ModuleList.java:251)
-	at org.netbeans.core.startup.ModuleSystem.restore(ModuleSystem.java:298)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:156)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:125)
-	at org.netbeans.core.startup.Main.start(Main.java:282)
-	at org.netbeans.core.startup.TopThreadGroup.run(TopThreadGroup.java:98)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-SEVERE [null]: Last record repeated 5 more times.
-SEVERE [org.openide.util.Exceptions]
-java.lang.IllegalAccessException: class org.netbeans.Module cannot access a member of class java.lang.ClassLoader (in module java.base) with modifiers "protected"
-	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392)
-	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:560)
-[catch] at org.netbeans.Module.findResources(Module.java:570)
-	at org.netbeans.core.startup.NbInstaller.loadLayers(NbInstaller.java:605)
-	at org.netbeans.core.startup.NbInstaller.loadImpl(NbInstaller.java:332)
-	at org.netbeans.core.startup.NbInstaller.access$000(NbInstaller.java:77)
-	at org.netbeans.core.startup.NbInstaller$1.run(NbInstaller.java:322)
-	at org.openide.filesystems.FileUtil$2.run(FileUtil.java:413)
-	at org.openide.filesystems.EventControl.runAtomicAction(EventControl.java:102)
-	at org.openide.filesystems.FileSystem.runAtomicAction(FileSystem.java:494)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:397)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:417)
-	at org.netbeans.core.startup.NbInstaller.load(NbInstaller.java:319)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1449)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1254)
-	at org.netbeans.core.startup.ModuleList.installNew(ModuleList.java:315)
-	at org.netbeans.core.startup.ModuleList.trigger(ModuleList.java:251)
-	at org.netbeans.core.startup.ModuleSystem.restore(ModuleSystem.java:298)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:156)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:125)
-	at org.netbeans.core.startup.Main.start(Main.java:282)
-	at org.netbeans.core.startup.TopThreadGroup.run(TopThreadGroup.java:98)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-SEVERE [null]: Last record repeated 2 more times.
-SEVERE [org.openide.util.Exceptions]
-java.lang.IllegalAccessException: class org.netbeans.Module cannot access a member of class java.lang.ClassLoader (in module java.base) with modifiers "protected"
-	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392)
-	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:560)
-[catch] at org.netbeans.Module.findResources(Module.java:570)
-	at org.netbeans.core.startup.NbInstaller.loadLayers(NbInstaller.java:587)
-	at org.netbeans.core.startup.NbInstaller.loadImpl(NbInstaller.java:332)
-	at org.netbeans.core.startup.NbInstaller.access$000(NbInstaller.java:77)
-	at org.netbeans.core.startup.NbInstaller$1.run(NbInstaller.java:322)
-	at org.openide.filesystems.FileUtil$2.run(FileUtil.java:413)
-	at org.openide.filesystems.EventControl.runAtomicAction(EventControl.java:102)
-	at org.openide.filesystems.FileSystem.runAtomicAction(FileSystem.java:494)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:397)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:417)
-	at org.netbeans.core.startup.NbInstaller.load(NbInstaller.java:319)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1449)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1254)
-	at org.netbeans.core.startup.ModuleList.installNew(ModuleList.java:315)
-	at org.netbeans.core.startup.ModuleList.trigger(ModuleList.java:251)
-	at org.netbeans.core.startup.ModuleSystem.restore(ModuleSystem.java:298)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:156)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:125)
-	at org.netbeans.core.startup.Main.start(Main.java:282)
-	at org.netbeans.core.startup.TopThreadGroup.run(TopThreadGroup.java:98)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-SEVERE [null]: Last record repeated 5 more times.
-SEVERE [org.openide.util.Exceptions]
-java.lang.IllegalAccessException: class org.netbeans.Module cannot access a member of class java.lang.ClassLoader (in module java.base) with modifiers "protected"
-	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392)
-	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:560)
-[catch] at org.netbeans.Module.findResources(Module.java:570)
-	at org.netbeans.core.startup.NbInstaller.loadLayers(NbInstaller.java:605)
-	at org.netbeans.core.startup.NbInstaller.loadImpl(NbInstaller.java:332)
-	at org.netbeans.core.startup.NbInstaller.access$000(NbInstaller.java:77)
-	at org.netbeans.core.startup.NbInstaller$1.run(NbInstaller.java:322)
-	at org.openide.filesystems.FileUtil$2.run(FileUtil.java:413)
-	at org.openide.filesystems.EventControl.runAtomicAction(EventControl.java:102)
-	at org.openide.filesystems.FileSystem.runAtomicAction(FileSystem.java:494)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:397)
-	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:417)
-	at org.netbeans.core.startup.NbInstaller.load(NbInstaller.java:319)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1449)
-	at org.netbeans.ModuleManager.enable(ModuleManager.java:1254)
-	at org.netbeans.core.startup.ModuleList.installNew(ModuleList.java:315)
-	at org.netbeans.core.startup.ModuleList.trigger(ModuleList.java:251)
-	at org.netbeans.core.startup.ModuleSystem.restore(ModuleSystem.java:298)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:156)
-	at org.netbeans.core.startup.Main.getModuleSystem(Main.java:125)
-	at org.netbeans.core.startup.Main.start(Main.java:282)
-	at org.netbeans.core.startup.TopThreadGroup.run(TopThreadGroup.java:98)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-SEVERE [null]: Last record repeated 3 more times.
 INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.openide.util.lookup [8.39 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.openide.util [9.13 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.openide.util.ui [9.14 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.openide.modules [7.54 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.api.annotations.common/1 [1.33 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.openide.filesystems [9.16 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.api.intent [1.8 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.api.io [1.9 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.openide.io [1.55 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.openide.awt [7.74 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.libs.asm [5.9 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.bootstrap/1 [2.84 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.core.startup.base [1.68.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -193,9 +36,88 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.libs.osgi [1.28 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.core.netigso [1.37 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.netbinox [1.47 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.api.annotations.common/1 [1.33 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	dk.sdu.mmmi.cbse.Common [1.0 1.0-20220301 202203011157]
-	dk.sdu.mmmi.cbse.Player [1.0 1.0-20220301 202203011157]
-	dk.sdu.mmmi.cbse.Enemy [1.0 1.0-20220301 202203011157]
-	dk.sdu.mmmi.cbse.Core [1.0 1.0-20220301 202203011157]
-	dk.sdu.mmmi.cbse.Asteroid [1.0 1.0-20220301 202203011157]
+	org.netbeans.api.progress/1 [1.53 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.api.progress.nb [1.53 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.autoupdate.services [1.59 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	dk.sdu.mmmi.cbse.SilentUpdate [1.0 1.0-20220309 202203090933]
+	dk.sdu.mmmi.cbse.Common [1.0 1.0-20220309 202203090933]
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20220308 202203081005]
+	dk.sdu.mmmi.cbse.Enemy [1.0 1.0-20220308 202203081005]
+	dk.sdu.mmmi.cbse.Core [1.0 1.0-20220309 202203090933]
+	dk.sdu.mmmi.cbse.Asteroid [1.0 1.0-20220308 202203081005]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Player[dk.sdu.mmmi.cbse.Player/1.0]
+INFO [org.netbeans.core.startup.NbEvents]: Turning off modules:
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20220308 202203081005]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Unstall modules done.
+Turning off modules...
+Turning off modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Player[dk.sdu.mmmi.cbse.Player/1.0]
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Player.nbm
+INFO [org.netbeans.updater]: File installed /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/config/Modules/dk-sdu-mmmi-cbse-Player.xml@0
+INFO [org.netbeans.updater]: Copied file /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update/download/dk-sdu-mmmi-cbse-Player.nbm:netbeans/config/Modules/dk-sdu-mmmi-cbse-Player.xml to /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/config/Modules/dk-sdu-mmmi-cbse-Player.xml
+INFO [org.netbeans.updater]: File installed /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/modules/dk-sdu-mmmi-cbse-Player.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update/download/dk-sdu-mmmi-cbse-Player.nbm:netbeans/modules/dk-sdu-mmmi-cbse-Player.jar to /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/modules/dk-sdu-mmmi-cbse-Player.jar
+INFO [org.netbeans.updater]: File /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update/download/dk-sdu-mmmi-cbse-Player.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@37f62677
+INFO [org.netbeans.updater]: File /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update_tracking/dk-sdu-mmmi-cbse-Player.xml modified.
+INFO [org.netbeans.updater]: File installed /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update_tracking/dk-sdu-mmmi-cbse-Player.xml@0
+INFO [org.netbeans.updater]: File /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update/download/additional_information.xml deleted.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20220308 202203081005]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Install new modules done.
+Turning on modules...
+Loading module services...
+Loading modules...
+Turning on modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
+INFO [null]: Last record repeated 34 times in total.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Player[dk.sdu.mmmi.cbse.Player/1.0]
+Turning off modules...
+INFO [org.netbeans.core.startup.NbEvents]: Turning off modules:
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20220308 202203081005]
+Turning off modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Unstall modules done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Player[dk.sdu.mmmi.cbse.Player/1.0]
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Player.nbm
+INFO [org.netbeans.updater]: File installed /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/config/Modules/dk-sdu-mmmi-cbse-Player.xml@0
+INFO [org.netbeans.updater]: Copied file /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update/download/dk-sdu-mmmi-cbse-Player.nbm:netbeans/config/Modules/dk-sdu-mmmi-cbse-Player.xml to /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/config/Modules/dk-sdu-mmmi-cbse-Player.xml
+INFO [org.netbeans.updater]: File installed /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/modules/dk-sdu-mmmi-cbse-Player.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update/download/dk-sdu-mmmi-cbse-Player.nbm:netbeans/modules/dk-sdu-mmmi-cbse-Player.jar to /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/modules/dk-sdu-mmmi-cbse-Player.jar
+INFO [org.netbeans.updater]: File /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update/download/dk-sdu-mmmi-cbse-Player.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@3957bb92
+INFO [org.netbeans.updater]: File /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update_tracking/dk-sdu-mmmi-cbse-Player.xml modified.
+INFO [org.netbeans.updater]: File installed /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update_tracking/dk-sdu-mmmi-cbse-Player.xml@0
+INFO [org.netbeans.updater]: File /Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/application/target/netbeanslab/netbeanslab/update/download/additional_information.xml deleted.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20220308 202203081005]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Install new modules done.
+Turning on modules...
+Loading module services...
+Loading modules...
+Turning on modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated again.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Player[dk.sdu.mmmi.cbse.Player/1.0]
+INFO [org.netbeans.core.startup.NbEvents]: Turning off modules:
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20220308 202203081005]
+Turning off modules...
+Turning off modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Unstall modules done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated again.

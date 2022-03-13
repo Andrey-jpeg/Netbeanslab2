@@ -1,9 +1,9 @@
-platform=1646135860573
-cluster.platform=1646135860573
-cluster.netbeanslab=1646135860573
-user=1646135860573
+platform=1646818397598
+cluster.platform=1646818397598
+cluster.netbeanslab=1646820119872
+user=1646820119872
 crc=7
 locale=en_DK
 branding=netbeanslab
-java.version=17.0.1
-java.vm.version=17.0.1+1
+java.version=1.8.0_321
+java.vm.version=25.321-b07

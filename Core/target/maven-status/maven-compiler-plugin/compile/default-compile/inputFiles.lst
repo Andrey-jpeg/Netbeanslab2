@@ -1,3 +1,5 @@
-/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/Core/src/main/java/dk/sdu/mmmi/cbse/main/Game.java
-/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/Core/src/main/java/dk/sdu/mmmi/cbse/main/Installer.java
-/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab/Core/src/main/java/dk/sdu/mmmi/cbse/managers/GameInputProcessor.java
+/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/Core/src/main/java/dk/sdu/mmmi/cbse/main/Installer.java
+/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/Core/src/main/java/dk/sdu/mmmi/cbse/managers/GameInputProcessor.java
+/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/Core/src/main/java/dk/sdu/mmmi/cbse/managers/JarFileHandleStream.java
+/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/Core/src/main/java/dk/sdu/mmmi/cbse/managers/AssetsJarFileResolver.java
+/Users/casperandresen/Documents/SDU/sem4/componentbased/NetbeansLab2/Core/src/main/java/dk/sdu/mmmi/cbse/main/Game.java

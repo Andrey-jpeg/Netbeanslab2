@@ -1,4 +1,6 @@
 dk/sdu/mmmi/cbse/main/Game.class
 dk/sdu/mmmi/cbse/managers/GameInputProcessor.class
+dk/sdu/mmmi/cbse/managers/JarFileHandleStream.class
 dk/sdu/mmmi/cbse/main/Game$1.class
+dk/sdu/mmmi/cbse/managers/AssetsJarFileResolver.class
 dk/sdu/mmmi/cbse/main/Installer.class
